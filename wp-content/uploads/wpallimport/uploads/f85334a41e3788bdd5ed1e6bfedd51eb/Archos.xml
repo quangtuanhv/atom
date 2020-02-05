@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<termid><![CDATA[115]]></termid>
+		<termname><![CDATA[50 Titanium 4G]]></termname>
+		<termslug><![CDATA[50-titanium-4g]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/50-titanium-4g.png]]></thumbnails>
+		<parentid><![CDATA[71]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[116]]></termid>
+		<termname><![CDATA[55 Platinum]]></termname>
+		<termslug><![CDATA[55-platinum]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/55-platinum.png]]></thumbnails>
+		<parentid><![CDATA[71]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[117]]></termid>
+		<termname><![CDATA[Diamond Plus]]></termname>
+		<termslug><![CDATA[diamond-plus]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/diamond-plus.png]]></thumbnails>
+		<parentid><![CDATA[71]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[118]]></termid>
+		<termname><![CDATA[55 Helium Plus]]></termname>
+		<termslug><![CDATA[55-helium-plus]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/archos-55-helium-plus.jpg]]></thumbnails>
+		<parentid><![CDATA[71]]></parentid>
+	</node>
+</data>

@@ -1,0 +1,91 @@
+2019-12-28T06:08:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T06:08:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T06:08:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T06:08:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T06:58:59+00:00 CRITICAL Uncaught Exception: Undefined field id. in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/plugins/wp-all-import-pro/models/model/record.php:148
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/plugins/wp-all-import-pro/controllers/admin/import.php(2616): PMXI_Model_Record->__get('id')
+#1 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/plugins/wp-all-import-pro/wp-all-import-pro.php(628): PMXI_Admin_Import->process()
+#2 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-admin/admin.php(169): do_action('admin_init')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/atom-wp/wp-content/plugins/wp-all-import-pro/models/model/record.php on line 148
+
+2019-12-28T12:47:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T12:51:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T12:54:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T12:55:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T12:56:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+
+2019-12-28T12:56:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_term_thumbnail() in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php:45
+Stack trace:
+#0 /home/copperelfe/www/atom-wp/wp-includes/template-loader.php(78): include()
+#1 /home/copperelfe/www/atom-wp/wp-blog-header.php(19): require_once('/home/copperelf...')
+#2 /home/copperelfe/www/atom-wp/index.php(17): require('/home/copperelf...')
+#3 {main}
+  thrown in /home/copperelfe/www/atom-wp/wp-content/themes/storefront/template-parts/repair-mobile.php on line 45
+

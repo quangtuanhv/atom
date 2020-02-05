@@ -1,0 +1,81 @@
+# Translation of Plugins - Taxonomy Thumbnail - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Taxonomy Thumbnail - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-07 13:00:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Taxonomy Thumbnail - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.screenfeed.fr/greg/"
+msgstr "https://www.screenfeed.fr/greg/"
+
+#. Author of the plugin/theme
+msgid "Grégory Viguier"
+msgstr "Grégory Viguier"
+
+#. Description of the plugin/theme
+msgid "Add a thumbnail to your taxonomy terms."
+msgstr "Ajoutez une miniature à vos termes de taxonomie."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.screenfeed.fr/plugin-wp/taxonomy-thumbnail/"
+msgstr "https://www.screenfeed.fr/plugin-wp/taxonomy-thumbnail/"
+
+#. Plugin Name of the plugin/theme
+msgid "SF Taxonomy Thumbnail"
+msgstr "SF Taxonomy Thumbnail"
+
+#: inc/admin.php:144
+msgid "An error occurred, the thumbnail could not be removed from this term. Try to update the term manually."
+msgstr "Une erreur s&rsquo;est produite, la miniature n'a pas pu être supprimée de ce terme. Tentez de mettre à jour le terme manuellement."
+
+#: inc/admin.php:143
+msgid "An error occurred, the thumbnail could not be set to this term. Try to update the term manually."
+msgstr "Une erreur s&rsquo;est produite, la miniature n'a pas pu être assignée à ce terme. Tentez de mettre à jour le terme manuellement."
+
+#: inc/admin.php:142
+msgid "Thumbnail successfully removed from this term."
+msgstr "Miniature supprimée de ce terme avec succès."
+
+#: inc/admin.php:141
+msgid "Thumbnail successfully set to this term."
+msgstr "Miniature assignée à ce terme avec succès."
+
+#: inc/admin.php:140
+msgid "Loading&hellip;"
+msgstr "Chargement&#8230;"
+
+#: inc/admin.php:139
+msgid "Select thumbnail"
+msgstr "Sélectionner la miniature"
+
+#: inc/admin.php:138
+msgid "Choose Thumbnail"
+msgstr "Choisir une miniature"
+
+#: inc/admin.php:97 inc/admin.php:137
+msgid "Remove thumbnail"
+msgstr "Supprimer la miniature"
+
+#: inc/admin.php:94 inc/admin.php:136
+msgid "Change thumbnail"
+msgstr "Changer la miniature"
+
+#: inc/admin.php:46 inc/admin.php:100 inc/admin.php:135
+msgid "Set a thumbnail"
+msgstr "Définir une miniature"
+
+#: inc/admin.php:42 inc/admin.php:85
+msgid "Indicate an image ID"
+msgstr "Indiquer l&rsquo;ID d&rsquo;une image"
+
+#: inc/admin-and-ajax.php:106 inc/admin-and-ajax.php:114 inc/admin.php:40
+#: inc/admin.php:81
+msgid "Thumbnail"
+msgstr "Miniature"

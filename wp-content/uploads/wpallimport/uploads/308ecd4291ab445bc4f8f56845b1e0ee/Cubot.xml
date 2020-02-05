@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<termid><![CDATA[119]]></termid>
+		<termname><![CDATA[S 308]]></termname>
+		<termslug><![CDATA[s-308]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/cubot-s308.jpg]]></thumbnails>
+		<parentid><![CDATA[72]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[120]]></termid>
+		<termname><![CDATA[One M8]]></termname>
+		<termslug><![CDATA[one-m8]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/htc-one-m8.jpg]]></thumbnails>
+		<parentid><![CDATA[73]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[121]]></termid>
+		<termname><![CDATA[Honor 7X]]></termname>
+		<termslug><![CDATA[honor-7x]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/honor-7x.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[122]]></termid>
+		<termname><![CDATA[P9]]></termname>
+		<termslug><![CDATA[p9]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p9.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[123]]></termid>
+		<termname><![CDATA[Y6 II]]></termname>
+		<termslug><![CDATA[y6-ii]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/y6-ii.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[124]]></termid>
+		<termname><![CDATA[Mate 9]]></termname>
+		<termslug><![CDATA[mate-9]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/mate-9.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[125]]></termid>
+		<termname><![CDATA[Acsend G620S]]></termname>
+		<termslug><![CDATA[acsend-g620s]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ascend-g620s.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[126]]></termid>
+		<termname><![CDATA[P9 Lite]]></termname>
+		<termslug><![CDATA[p9-lite]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p9-lite.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[127]]></termid>
+		<termname><![CDATA[Honor 5A]]></termname>
+		<termslug><![CDATA[honor-5a]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/honor-5a.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[128]]></termid>
+		<termname><![CDATA[Honor 7]]></termname>
+		<termslug><![CDATA[honor-7]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/honor-7.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[129]]></termid>
+		<termname><![CDATA[GR3]]></termname>
+		<termslug><![CDATA[gr3]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/gr-3.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[130]]></termid>
+		<termname><![CDATA[P10]]></termname>
+		<termslug><![CDATA[p10]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p10.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[131]]></termid>
+		<termname><![CDATA[Y3 II]]></termname>
+		<termslug><![CDATA[y3-ii]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/y3-ii.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[132]]></termid>
+		<termname><![CDATA[P10 Plus]]></termname>
+		<termslug><![CDATA[p10-plus]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p10-plus.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[133]]></termid>
+		<termname><![CDATA[GR5]]></termname>
+		<termslug><![CDATA[gr5]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/gr-5.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[134]]></termid>
+		<termname><![CDATA[Y330]]></termname>
+		<termslug><![CDATA[y330]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/y330.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[135]]></termid>
+		<termname><![CDATA[Honor 5X]]></termname>
+		<termslug><![CDATA[honor-5x]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/honor-5x.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[136]]></termid>
+		<termname><![CDATA[Honor 8]]></termname>
+		<termslug><![CDATA[honor-8]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/honor-8.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[137]]></termid>
+		<termname><![CDATA[Mate 8]]></termname>
+		<termslug><![CDATA[mate-8]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/mate-8.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[138]]></termid>
+		<termname><![CDATA[P8 Lite]]></termname>
+		<termslug><![CDATA[p8-lite]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p8-lite.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[139]]></termid>
+		<termname><![CDATA[P8 Lite (2017)]]></termname>
+		<termslug><![CDATA[p8-lite-2017]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/p8-lite-2017.jpg]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[140]]></termid>
+		<termname><![CDATA[P20]]></termname>
+		<termslug><![CDATA[p20]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/no-pictures.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[141]]></termid>
+		<termname><![CDATA[P20 Pro]]></termname>
+		<termslug><![CDATA[p20-pro]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/no-pictures.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[142]]></termid>
+		<termname><![CDATA[Y6 2018]]></termname>
+		<termslug><![CDATA[y6-2018]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/no-pictures.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[143]]></termid>
+		<termname><![CDATA[Y7 2018]]></termname>
+		<termslug><![CDATA[y7-2018]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/no-pictures.png]]></thumbnails>
+		<parentid><![CDATA[74]]></parentid>
+	</node>
+</data>

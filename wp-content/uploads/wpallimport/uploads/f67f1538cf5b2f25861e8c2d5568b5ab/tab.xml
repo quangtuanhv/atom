@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[191]]></column_1>
+		<column_2><![CDATA[iPad Mini 1]]></column_2>
+		<column_3><![CDATA[ipad-mini-1]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-mini.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[192]]></column_1>
+		<column_2><![CDATA[iPad Pro 12.9\"]]></column_2>
+		<column_3><![CDATA[ipad-pro-12-9]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-pro.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[193]]></column_1>
+		<column_2><![CDATA[iPad 5 (2017)]]></column_2>
+		<column_3><![CDATA[ipad-5-2017]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-5-ipad-2017.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[194]]></column_1>
+		<column_2><![CDATA[iPad 2]]></column_2>
+		<column_3><![CDATA[ipad-2]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-2.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[195]]></column_1>
+		<column_2><![CDATA[iPad 4]]></column_2>
+		<column_3><![CDATA[ipad-4]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-4.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[196]]></column_1>
+		<column_2><![CDATA[iPad Mini 4]]></column_2>
+		<column_3><![CDATA[ipad-mini-4]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-mini-4.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[197]]></column_1>
+		<column_2><![CDATA[iPad 3]]></column_2>
+		<column_3><![CDATA[ipad-3]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-3.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[198]]></column_1>
+		<column_2><![CDATA[iPad Air 2]]></column_2>
+		<column_3><![CDATA[ipad-air-2]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-air-2.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[199]]></column_1>
+		<column_2><![CDATA[iPad Mini 2]]></column_2>
+		<column_3><![CDATA[ipad-mini-2]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-mini-2.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[200]]></column_1>
+		<column_2><![CDATA[iPad Air 1]]></column_2>
+		<column_3><![CDATA[ipad-air-1]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-air.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[201]]></column_1>
+		<column_2><![CDATA[iPad Mini 3]]></column_2>
+		<column_3><![CDATA[ipad-mini-3]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/ipad-mini-3.jpg]]></column_4>
+		<column_5><![CDATA[85]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[202]]></column_1>
+		<column_2><![CDATA[101 Copper]]></column_2>
+		<column_3><![CDATA[101-copper]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/archos-101-copper.png]]></column_4>
+		<column_5><![CDATA[86]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[203]]></column_1>
+		<column_2><![CDATA[Media Pad T2 Pro]]></column_2>
+		<column_3><![CDATA[media-pad-t2-pro]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/huawei-media-pad-t2-pro.jpg]]></column_4>
+		<column_5><![CDATA[87]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[204]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 8.9\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-8-9]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab89.png]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[205]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 4 - 10.1\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-4-10-1]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[206]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 2 7\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-2-7]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-2-7.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[207]]></column_1>
+		<column_2><![CDATA[Galaxy Tab S 8.4\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-s-8-4]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-s-84.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[208]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 4 7\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-4-7]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-4-7.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[209]]></column_1>
+		<column_2><![CDATA[GalaxyTab A 9.7\"]]></column_2>
+		<column_3><![CDATA[galaxytab-a-9-7]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-a-97.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[210]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 7.0\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-7-0]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-7.png]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[211]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 3 8.0\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-3-8-0]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-3-8.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[212]]></column_1>
+		<column_2><![CDATA[Galaxy Tab Pro 12.2]]></column_2>
+		<column_3><![CDATA[galaxy-tab-pro-12-2]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-note-pro-122.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[213]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 2 10.1\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-2-10-1]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-2-101.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[214]]></column_1>
+		<column_2><![CDATA[Galaxy Tab E 9.6\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-e-9-6]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/Samsung-Galaxy-Tab-E-sm-t560.png]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[215]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 4 8\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-4-8]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-4-8.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[216]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 3 Lite]]></column_2>
+		<column_3><![CDATA[galaxy-tab-3-lite]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-3-lite.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[217]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 4 10.1\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-4-10-1-samsung-tablette]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-4-101.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[218]]></column_1>
+		<column_2><![CDATA[Galaxy Tab A6]]></column_2>
+		<column_3><![CDATA[galaxy-tab-a6]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[219]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 3 8\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-3-8]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[220]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 3 10.1\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-3-10-1]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-3-101.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[221]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 3 7\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-3-7]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-3-7.jpg]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+	<node>
+		<column_1><![CDATA[222]]></column_1>
+		<column_2><![CDATA[Galaxy Tab 4 8.0\"]]></column_2>
+		<column_3><![CDATA[galaxy-tab-4-8-0]]></column_3>
+		<column_4><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/galaxy-tab-t285.png]]></column_4>
+		<column_5><![CDATA[88]]></column_5>
+	</node>
+</data>

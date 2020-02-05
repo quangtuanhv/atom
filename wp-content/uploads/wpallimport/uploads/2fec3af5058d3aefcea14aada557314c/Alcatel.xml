@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<termid><![CDATA[66]]></termid>
+		<termname><![CDATA[Pop 3]]></termname>
+		<termslug><![CDATA[pop-3]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/pop-3-5.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[89]]></termid>
+		<termname><![CDATA[Pop 4]]></termname>
+		<termslug><![CDATA[pop-4]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/pop-4.jpg]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[90]]></termid>
+		<termname><![CDATA[A3 XL]]></termname>
+		<termslug><![CDATA[a3-xl]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/alcatel-a3-xl.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[91]]></termid>
+		<termname><![CDATA[One touch Pixi 4 6\"]]></termname>
+		<termslug><![CDATA[one-touch-pixi-4-6]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/pixi-4-6.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[92]]></termid>
+		<termname><![CDATA[One Touch Flash]]></termname>
+		<termslug><![CDATA[one-touch-flash]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/one-touch-flash.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[93]]></termid>
+		<termname><![CDATA[Shine lite]]></termname>
+		<termslug><![CDATA[shine-lite]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/shine-lite.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[94]]></termid>
+		<termname><![CDATA[Idol Mini 2S]]></termname>
+		<termslug><![CDATA[idol-mini-2s]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/alcatel-one-touch-idol-mini-s.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+	<node>
+		<termid><![CDATA[95]]></termid>
+		<termname><![CDATA[A3 Plus]]></termname>
+		<termslug><![CDATA[a3-plus]]></termslug>
+		<thumbnails><![CDATA[http://localhost/atom-wp/wp-content/uploads/models/alcatel-a3-plus.png]]></thumbnails>
+		<parentid><![CDATA[65]]></parentid>
+	</node>
+</data>

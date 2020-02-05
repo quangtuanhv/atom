@@ -1,0 +1,23 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink,"Image URL","Image Title","Image Caption","Image Description","Image Alt Text","Image Featured","Attachment URL",Categories,Tags,Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date","Prix de la réparation"
+1131,ecran,"<!-- wp:paragraph -->
+<p>Si vous avez besoin de changer votre écran, vous êtes au bon endroit ! En cas d'écran cassé, d'écran rayé, d'écran qui reste noir alors que le téléphone réagit et est allumé ou à cause d'un simple problème tactile, il vaut mieux réparer son appareil plutôt que de le jeter .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":4} -->
+<h4>Les symptômes de votre Pop 3</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>L'écran de votre appareil ne s'allume plus</li><li>L'écran de votre appareil est totalement blanc</li><li>Des tâches noires sont apparues sur l'écran de votre appareil</li><li>Des lignes multicolores couvrent une partie de l'écran de votre appareil</li><li>La vitre tactile de votre appareil ne répond plus</li><li>Certaines zones de votre écran appareil ne sont plus tactiles</li><li>Votre vitre tactile est rayée ou cassée ?</li></ul>
+<!-- /wp:list -->",,2019-12-21,post,http://localhost/atom-wp/ecran-2/,http://localhost/atom-wp/wp-content/uploads/2019/12/display.png,display,,,,http://localhost/atom-wp/wp-content/uploads/2019/12/display.png,,"Smartphone>Alcatel>Pop 3",,publish,1,admin,quangtuandev@gmail.com,abc,def,ecran-2,,,0,0,0,open,open,2019-12-21,
+1156,http://localhost/atom-wp/wp-content/uploads/2019/12/display-bis.png,"<!-- wp:paragraph -->
+<p>Si vous avez besoin de changer votre √©cran, vous √™tes au bon endroit ! En cas d'√©cran cass√©, d'√©cran ray√©, d'√©cran qui reste noir alors que le t√©l√©phone r√©agit et est allum√© ou √† cause d'un simple probl√®me tactile, il vaut mieux r√©parer son appareil plut√¥t que de le jeter .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":4} -->
+<h4>Les sympt√¥mes de votre Pop 4</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>L'√©cran de votre appareil ne s'allume plus</li><li>L'√©cran de votre appareil est totalement blanc</li><li>Des t√¢ches noires sont apparues sur l'√©cran de votre appareil</li><li>Des lignes multicolores couvrent une partie de l'√©cran de votre appareil</li><li>La vitre tactile de votre appareil ne r√©pond plus</li><li>Certaines zones de votre √©cran appareil ne sont plus tactiles</li><li>Votre vitre tactile est ray√©e ou cass√©e ?</li></ul>
+<!-- /wp:list -->",,2019-12-26,post,http://localhost/atom-wp/http-localhost-atom-wp-wp-content-uploads-2019-12-display-bis-png/,http://localhost/atom-wp/wp-content/uploads/2019/10/display-bis.png,display-bis,,,,http://localhost/atom-wp/wp-content/uploads/2019/10/display-bis.png,,"Smartphone>Alcatel>Pop 4",,publish,1,admin,quangtuandev@gmail.com,abc,def,http-localhost-atom-wp-wp-content-uploads-2019-12-display-bis-png,,default,0,0,0,open,open,2019-12-26,"12900 XPF"

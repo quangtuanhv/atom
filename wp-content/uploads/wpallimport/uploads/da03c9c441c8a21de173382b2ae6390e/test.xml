@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1990]]></id>
+		<device><![CDATA[ iPhone SE]]></device>
+		<price><![CDATA[ 6900 XPF]]></price>
+		<image><![CDATA[ http://localhost/atom-wp/wp-content/uploads/2019/10/scharging.png]]></image>
+		<title><![CDATA[ Connecteur de charge]]></title>
+		<des><![CDATA[ <p>Vous rencontrez des problèmes de charge sur votre Appareil et cela vous exaspère ' Si vous ne pouvez plus transférer vos données sur votre ordinateur car l'Appareil n'est pas reconnu ou qu'il ne prend plus la charge, posant des soucis d'autonomie alors il y a de fortes chances que cela provienne du connecteur de charge.</p><h4>Les symptômes de votre iPhone SE</h4><ul><li>Votre appareil ne se charge pas alors qu'il est branché</li><li>L'embout du chargeur ne tient pas dans votre appareil</li><li>Votre appareil n'est plus reconnu par votre ordinateur</li><li> La charge est très lente voir statique.</li></ul> ]]></des>
+	</node>
+</data>

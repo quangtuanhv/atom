@@ -1,0 +1,33 @@
+.woocommerce-pagination {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.list-view .wrap-des > h2,
+.list-view .wrap-des > span {display: block;text-align: right;}
+.site-header-cart .cart-contents::after {
+  content: "\f07a";
+  float: left;
+  font-size: 25px;
+  color: #f37d13;
+  margin-top: -15px;
+}
+li.cart-mini-li-tag span.count {
+  background: #000;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  border-radius: 10px;
+  text-align: center;
+  color: #fff;
+  opacity: 1 !important;
+  line-height: 20px;
+  margin-left: -15px;
+}
+.cart-collaterals .cart_totals,
+.cart-collaterals .shipping_calculator {
+  width: 100%;
+}
+.woocommerce-ordering {
+  padding: 0 15px;
+}
