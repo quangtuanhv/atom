@@ -31,3 +31,89 @@ li.cart-mini-li-tag span.count {
 .woocommerce-ordering {
   padding: 0 15px;
 }
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover ul.woocommerce-mini-cart.cart_list.product_list_widget {
+    padding-left: 0px;
+}
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover ul.woocommerce-mini-cart.cart_list.product_list_widget img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    float: unset;
+    margin-left: 0px !important;
+    margin-right: 20px;
+    float: left;
+}
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover ul.woocommerce-mini-cart.cart_list.product_list_widget a.remove.remove_from_cart_button {
+    float: right;
+    color: #e00;
+}
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover .widget.woocommerce.widget_shopping_cart {
+    width: 332px;
+    left: auto;
+    right: 0;
+    padding: 2.2em 2.2em 1.2em 2.2em;
+    border-radius: 0;
+    box-shadow: 0 0 6px 0 rgba(1,1,1,.3);
+    border: none;
+    color: #373a3c;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+}
+
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover ul.woocommerce-mini-cart.cart_list.product_list_widget span.quantity {
+    display: block;
+    text-align: right;
+}
+
+ul.woocommerce-mini-cart.cart_list.product_list_widget {
+    padding-left: 0px;
+}
+
+img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    float: unset;
+    margin-left: 0px !important;
+    /* width: 75px; */
+    /* height: 75px; */
+    margin-right: 20px;
+    float: left;
+}
+
+a.remove.remove_from_cart_button {
+    float: right;
+    color: #e00;
+}
+
+.nav-link:hover .widget.woocommerce.widget_shopping_cart {
+    width: 332px;
+    left: auto;
+    right: 0;
+    padding: 2.2em 2.2em 1.2em 2.2em;
+    border-radius: 0;
+    box-shadow: 0 0 6px 0 rgba(1,1,1,.3);
+    border: none;
+    color: #373a3c;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+}
+
+span.quantity {
+    display: block;
+    text-align: right;
+}
+
+a.button.wc-forward {
+    font-size: .875rem;
+    border-radius: 1.571em;
+    padding: 1.036em 2.134em;
+    border-width: 0;
+    display: inline-block;
+    color: #333e48;
+    background-color: #efecec;
+    border-color: #efecec;
+    transition: all .2s ease-in-out;
+    padding: .75em 2.07em;
+    margin: 0 .5em;
+}

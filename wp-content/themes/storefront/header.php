@@ -32,9 +32,6 @@
   
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
-    
-    <?php wp_enqueue_style( 'style-override', get_template_directory_uri() . '/css/style-override.css' ); ?>
-
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
     <script type="text/javascript">
       jQuery(document).ready(function($){
@@ -83,42 +80,11 @@ jQuery('.dropdown-toggle').click(function() {
   margin-left: .1rem;
   margin-right: .1rem;
 }
-
-
-
-/* 
-
-.menu-area{background: #d61a5e}
-.dropdown-menu{padding:0;margin:0;border:0 solid transition!important;border:0 solid rgba(0,0,0,.15);border-radius:0;-webkit-box-shadow:none!important;box-shadow:none!important} */
 .mainmenu a, .navbar-default .navbar-nav > li > a, .mainmenu ul li a , .navbar-expand-lg .navbar-nav .nav-link{color:#000;font-size:16px;text-transform:capitalize;padding:16px 15px;letter-spacing: 2px;display: block !important;}
-/* 
-.mainmenu .collapse ul > li:hover > a{background: #4CAF50;}
-.mainmenu .collapse ul ul > li:hover > a, .navbar-default .navbar-nav .show .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .show .dropdown-menu > li > a:hover{background: #4CAF50;}
-.mainmenu .collapse ul ul ul > li:hover > a{background: #4CAF50;} */
 
-/* .mainmenu .collapse ul ul, .mainmenu .collapse ul ul.dropdown-menu{background:#fff;} */
-/* .mainmenu .collapse ul ul ul, .mainmenu .collapse ul ul ul.dropdown-menu{background:#1E88E5} */
-/* .mainmenu .collapse ul ul ul ul, .mainmenu .collapse ul ul ul ul.dropdown-menu{background:#64B5F6} */
-
-/* .mainmenu{background: none;border: 0 solid;margin: 0;padding: 0;min-height:20px;width: 100%;}
-@media only screen and (min-width: 767px) {
-.mainmenu .collapse ul li:hover> ul{display:block}
-.mainmenu .collapse ul ul{position:absolute;top:100%;left:0;min-width:250px;display:none}
-
-.mainmenu .collapse ul ul li{position:relative;border-bottom: 1px solid orangered;}
-.mainmenu .collapse ul ul li:hover> ul{display:block}
-.mainmenu .collapse ul ul ul{position:absolute;top:0;left:100%;min-width:250px;display:none}
-
-.mainmenu .collapse ul ul ul li{position:relative;border-bottom: 1px solid orangered;}
-.mainmenu .collapse ul ul ul li:hover ul{display:block}
-.mainmenu .collapse ul ul ul ul{position:absolute;top:0;left:-100%;min-width:250px;display:none;z-index:1}
-
-}
-@media only screen and (max-width: 767px) {
-.navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
-.navbar-nav .show .dropdown-menu .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 45px}
-} */
 </style>
+    <?php wp_enqueue_style( 'style-override', get_template_directory_uri() . '/css/style-override.css' ); ?>
+
 </head>
 
 <body <?php body_class(); ?>>
@@ -126,51 +92,6 @@ jQuery('.dropdown-toggle').click(function() {
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'atom' ); ?></a>
 
 	<header id="masthead" class="site-header">
-<!-- 			
-<nav class="navbar navbar-expand-lg navbar-light bg fixed-top scrolling-navbar">
-<div class="container">
-
-  <a class="navbar-brand waves-effect" href="<?php echo get_site_url()?>">
-    <img src="<?php echo get_template_directory_uri() . '/img/logo-atom-top.png'?>" class="logo-header"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav ml-auto">
-      <li class="nav-item <?php if( is_front_page()) echo 'active' ?>" >
-        <a class="nav-link waves-effect" href="<?php echo get_site_url()?>">Home</a>
-      </li>
-      <li class="nav-item dropdown <?php if( is_shop()) echo 'active'?>">
-        <a class="nav-link dropdown-toggle" href="<?php echo get_site_url() . '/product-category/shop' ?>" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Tablette-Tél
-    </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <li class="dropdown-submenu">
-            <a class="dropdown-item dropdown-toggle" href="<?php echo get_site_url().'/product-category/telephones-portables'?>">Téléphones portables</a>
-            <ul class="dropdown-menu">
-              <a class="dropdown-item" href="<?php echo get_site_url().'/product-category/shop/telephones-portables/iphone/'?>">Iphone</a>
-              <a class="dropdown-item" href="<?php echo get_site_url().'/product-category/shop/telephones-portables/smartphones-android/'?>">Smartphones Android</a>
-              <a class="dropdown-item" href="<?php echo get_site_url().'/product-category/shop/telephones-portables/smartphones-windows/'?>">Smartphones Windows</a>
-            </ul> 
-          </li>
-
-            
-
-            </ul>
-          </li>
-      </li>
-      <li class="nav-item  <?php if( is_page_template( 'template-parts/repair.php' )) echo 'active'?>">
-        <a class="nav-link waves-effect" href="<?php echo get_site_url() . '/repair' ?>">Repair</a>
-      </li>
-      <li class="nav-item <?php if( is_page_template( 'template-parts/contact.php' )) echo 'active'?>">
-        <a class="nav-link waves-effect" href="<?php echo get_site_url() . '/contact' ?>">Contact</a>
-      </li>
-    </ul>
-  </div>
-  </div>
-
-</nav> -->
-<!-- <div id="menu_area" class="menu-area"> -->
   <nav class="navbar-expand-lg mainmenu navbar navbar-expand-lg navbar-light bg fixed-top scrolling-navbar">
     <div class="container">
         <!-- <div class="row"> -->
