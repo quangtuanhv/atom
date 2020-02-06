@@ -117,3 +117,14 @@ a.button.wc-forward {
     padding: .75em 2.07em;
     margin: 0 .5em;
 }
+ul.product-filter.menu-categories-detail {
+    width: max-content;
+    padding: 10px 20px;
+    overflow: hidden;
+}
+
+.menu-categories {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}

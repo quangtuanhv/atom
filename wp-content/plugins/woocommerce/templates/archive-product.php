@@ -32,7 +32,8 @@ do_action( 'woocommerce_before_main_content' );
 
 <header class="woocommerce-products-header">
 	<?php if ( apply_filters( 'woocommerce_show_page_title', true ) ) : ?>
-		<ul class="product-filter">
+		<div class="menu-categories">
+		<ul class="product-filter menu-categories-detail">
 			<li>
 					<a class="button-submenu" href="<?php echo get_site_url().'/product-category/shop/telephones-portables/iphone/'?>">iPhone</a>
 			</li>
@@ -46,6 +47,7 @@ do_action( 'woocommerce_before_main_content' );
 					<a class="button-submenu" href="<?php echo site_url('product-category/shop/tablettes/');?>">Tablettes</a>
 			</li>
 		</ul>
+		</div>
 
 <?php
 echo do_shortcode('[smartslider3 slider=2]');
