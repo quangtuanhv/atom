@@ -37,12 +37,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 	?>
 </p>
 
-<div class="col-md-4">
+<div class="col-md-4 col-sm-6 col-12">
 <?php if ( is_active_sidebar( 'block-filter-content' ) ) : ?>
 				<?php dynamic_sidebar( 'block-filter-content' ); ?>
 		<?php endif; ?>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 col-12">
 	<?php echo do_shortcode('[wpdreams_ajaxsearchlite]'); ?>
 </div>

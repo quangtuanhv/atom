@@ -64,7 +64,7 @@ function bbloomer_add_cart_quantity_plus_minus() {
    ?>
     <script type="text/javascript">
       jQuery(document).ready(function($){
-				$( "li.type-product.fix-img" ).addClass("col-md-4 col-6");
+				$( "li.type-product.fix-img" ).addClass("col-md-4 col-sm-6 col-12");
 				$( "li.type-product.fix-img" ).removeClass("product container");
 				$( "li.type-product.fix-img" ).wrapInner( "<div class='new product'></div>");
 				let search = document.location.search
@@ -102,13 +102,13 @@ function bbloomer_add_cart_quantity_plus_minus() {
 							return
 						}
 						$("li.type-product.fix-img").addClass("col-md-12 col-12 list-view");
-						$("li.type-product.fix-img").removeClass("col-md-4 col-6");
+						$("li.type-product.fix-img").removeClass("col-md-4 col-sm-6 col-12");
 					} else {
-						if ($("li.type-product.fix-img").hasClass("col-md-4 col-6")) {
+						if ($("li.type-product.fix-img").hasClass("col-md-4 col-sm-6 col-12")) {
 							return
 						}
 						$( "li.type-product.fix-img").removeClass("col-md-12 col-12");
-						$( "li.type-product.fix-img" ).addClass("col-md-4 col-6");
+						$( "li.type-product.fix-img" ).addClass("col-md-4 col-sm-6 col-12");
 					}
 				}
 	});
