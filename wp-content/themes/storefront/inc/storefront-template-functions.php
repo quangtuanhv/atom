@@ -452,6 +452,7 @@ if ( ! function_exists( 'storefront_post_meta' ) ) {
 	 * @since 1.0.0
 	 */
 	function storefront_post_meta() {
+    return;
 		if ( 'post' !== get_post_type() ) {
 			return;
 		}

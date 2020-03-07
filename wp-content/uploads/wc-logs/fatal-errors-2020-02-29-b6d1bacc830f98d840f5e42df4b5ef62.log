@@ -1,0 +1,14 @@
+2020-02-29T09:45:08+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:18+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:28+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:38+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:49+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:49+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+
+2020-02-29T09:45:55+00:00 CRITICAL syntax error, unexpected '}' in /var/www/html/test-web/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 665
+

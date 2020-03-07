@@ -1,0 +1,8 @@
+2020-03-05T11:39:10+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /var/www/html/test-web/wp-content/themes/storefront/search.php:51
+Stack trace:
+#0 /var/www/html/test-web/wp-includes/template-loader.php(78): include()
+#1 /var/www/html/test-web/wp-blog-header.php(19): require_once('/var/www/html/t...')
+#2 /var/www/html/test-web/index.php(17): require('/var/www/html/t...')
+#3 {main}
+  thrown dans /var/www/html/test-web/wp-content/themes/storefront/search.php à la ligne 51
+

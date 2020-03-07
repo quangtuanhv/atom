@@ -605,10 +605,10 @@ function wc_get_product_class( $class = '', $product = null ) {
 	$classes = array_merge(
 		$post_classes,
 		array(
-			'product',
+// 			'product',
 			'type-product',
-			'container',
-			// 'col-6',
+// 			'container',
+			'col-12',
 			'fix-img',
 			// 'col-md-3',
 			// 'col-sm-4',
@@ -660,6 +660,16 @@ function wc_get_product_class( $class = '', $product = null ) {
 	if ( $product->is_type( 'variable' ) && $product->get_default_attributes() ) {
 		$classes[] = 'has-default-attributes';
 	}
+  if (!is_product()) {
+      if (empty($_GET['viewby']) || $_GET['viewby'] == 'gird') {
+        $classes[] = 'col-md-4 col-sm-6';
+      } else {
+        $classes[] = 'list-view col-md-12';
+      }
+  } else {
+     $classes[] = 'product container';
+  }
+
 
 	// Include attributes and any extra taxonomies only if enabled via the hook - this is a performance issue.
 	if ( apply_filters( 'woocommerce_get_product_class_include_taxonomies', false ) ) {

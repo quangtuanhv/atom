@@ -1139,3 +1139,6 @@ li.cart-mini-li-tag>a.cart-contents {
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
+.woocommerce-result-count {
+  display: none !important;
+}

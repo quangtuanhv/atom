@@ -62,11 +62,8 @@ add_action( 'wp_footer', 'bbloomer_add_cart_quantity_plus_minus' );
 function bbloomer_add_cart_quantity_plus_minus() {
    // Only run this on the single product page
    ?>
-    <script type="text/javascript">
-      jQuery(document).ready(function($){
-				$( "li.type-product.fix-img" ).addClass("col-md-4 col-sm-6 col-12");
-				$( "li.type-product.fix-img" ).removeClass("product container");
-				$( "li.type-product.fix-img" ).wrapInner( "<div class='new product'></div>");
+<script type="text/javascript">
+      jQuery(document).ready(function($) {
 				let search = document.location.search
 				if(search.indexOf('viewby=list') > 0) {
 					$('#view-list').addClass('view-active')
@@ -93,24 +90,6 @@ function bbloomer_add_cart_quantity_plus_minus() {
 						document.location.search = "viewby=gird";
 					}
 				});
-				let searchParams = new URLSearchParams(window.location.search)
-				let param
-				if(searchParams.has('viewby')) {
-					param = searchParams.get('viewby')
-					if (param === 'list') {
-						if ($("li.type-product.fix-img").hasClass("col-md-12 col-12")) {
-							return
-						}
-						$("li.type-product.fix-img").addClass("col-md-12 col-12 list-view");
-						$("li.type-product.fix-img").removeClass("col-md-4 col-sm-6 col-12");
-					} else {
-						if ($("li.type-product.fix-img").hasClass("col-md-4 col-sm-6 col-12")) {
-							return
-						}
-						$( "li.type-product.fix-img").removeClass("col-md-12 col-12");
-						$( "li.type-product.fix-img" ).addClass("col-md-4 col-sm-6 col-12");
-					}
-				}
 	});
            
 	</script>
